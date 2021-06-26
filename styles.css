@@ -1,0 +1,52 @@
+body {
+    background-image: url("https://x3jme3vmctf3dmlkql5tzx17-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/curso-parrilladas-y-asados.jpg");
+
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(26, 141, 194);
+    font-size: 3rem;
+    
+}
+
+img {
+    width: 400px;
+}
+
+a {
+    font-size: 1rem;
+    color: rgb(81, 236, 9);
+ 
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.box .uno {
+    align-self: center;
+}
+.box .dos {
+    align-self: center;
+}
+.box .tres {
+    align-self: center;
+}
+
+
+#thirdDiv {
+    width: 500px;
+    height: 650px;
+    background-color: rgb(145, 137, 131);
+    padding: 40px;
+    border: 2px solid black;
+    
+}
+#spanId {
+    font-size: 18px;
+}
